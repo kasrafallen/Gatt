@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/theme</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorAccent">@color/theme</color>
+
+    <color name="white">#ffffff</color>
+    <color name="shadow_dark">#81000000</color>
+    <color name="shadow_lite">#1d000000</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="spark_line_color">#000000</color>
+    <color name="spark_base_line_color">#757577</color>
+    <color name="spark_scrub_line_color">#757577</color>
+
+    <color name="lite_1">#ff6600</color>
+    <color name="dark_1">#da5701</color>
+
+    <color name="lite_2">#ff6666</color>
+    <color name="dark_2">#ce5151</color>
+
+    <color name="lite_3">#ff3333</color>
+    <color name="dark_3">#b12121</color>
+
+    <color name="lite_4">#339933</color>
+    <color name="dark_4">#216421</color>
+
+    <color name="lite_5">#00ccff</color>
+    <color name="dark_5">#02a0c7</color>
+
+    <color name="lite_6">#333399</color>
+    <color name="dark_6">#20205c</color>
+
+    <color name="lite_7">#9933cc</color>
+    <color name="dark_7">#662189</color>
+
+    <color name="lite_8">#cccccc</color>
+    <color name="dark_8">#898989</color>
+
+    <color name="lite_9">#993300</color>
+    <color name="dark_9">#662200</color>
+
+    <color name="lite_10">#cccc33</color>
+    <color name="dark_10">#8c8c24</color>
+
+    <color name="lite_11">#99cc00</color>
+    <color name="dark_11">#608000</color>
+
+    <color name="base">#f5f5f5</color>
+    <color name="theme">#ff3333</color>
+    <color name="theme_fade">#bcff3333</color>
+    <color name="dark">#d92929</color>
+
+</resources>

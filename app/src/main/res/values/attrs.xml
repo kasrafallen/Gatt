@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="spark_SparkViewStyle" format="reference" />
+
+    <declare-styleable name="spark_SparkView">
+        <attr name="spark_lineColor" format="color|reference" />
+        <attr name="spark_lineWidth" format="dimension|reference" />
+        <attr name="spark_cornerRadius" format="dimension|reference" />
+        <attr name="spark_fill" format="boolean|reference" />
+
+        <attr name="spark_baseLineColor" format="color|reference" />
+        <attr name="spark_baseLineWidth" format="dimension|reference" />
+
+        <attr name="spark_scrubLineColor" format="color|reference" />
+        <attr name="spark_scrubLineWidth" format="dimension|reference" />
+
+        <attr name="spark_scrubEnabled" format="boolean|reference" />
+        <attr name="spark_animateChanges" format="boolean|reference" />
+    </declare-styleable>
+</resources>
